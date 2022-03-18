@@ -2,12 +2,14 @@
 Task 3- Adding Payment gateway integration
 
 1.Homepage
-![homepage](https://user-images.githubusercontent.com/68149009/129959624-d8c1e610-631a-4067-a623-386af9116f4f.png)
+![Screenshot 2022-03-18 164155](https://user-images.githubusercontent.com/56465439/158993170-1f953b19-168c-42f8-b0be-dc33b3214cca.png)
 
 2.Donation page 
-![donate](https://user-images.githubusercontent.com/68149009/129959784-920036b3-3daf-4756-b07c-4a0ae891aa7e.png)
-![donation](https://user-images.githubusercontent.com/68149009/129959890-fa392031-cf29-45ba-98e8-34aa7bb0f78c.png)
-![receipt](https://user-images.githubusercontent.com/68149009/129959927-b4cc3e3c-d5ec-48d2-a702-fd4de090f35d.png)
+![1](https://user-images.githubusercontent.com/56465439/158993127-f1269764-037a-4a08-8018-ef8ff2ed78cb.png)
+![Screenshot 2022-03-18 163815](https://user-images.githubusercontent.com/56465439/158993148-713a410e-01ad-4b4b-8a0f-3bd254ba5f8c.png)
+![Screenshot 2022-03-18 163930](https://user-images.githubusercontent.com/56465439/158993153-17ef3222-f3fe-4c50-a4a3-80a897f77a41.png)
+![Screenshot 2022-03-18 164051](https://user-images.githubusercontent.com/56465439/158993160-9ff090d8-cc58-42ae-ac93-2664edc182b1.png)
+
 
 
 
