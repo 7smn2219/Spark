@@ -1,4 +1,5 @@
-***Payment-Gateway-Integration***
+**Payment-Gateway-Integration**
+
 Task 3- Adding Payment gateway integration
 
 https://7smn2219.github.io/Spark/Payment-Gateway-Integration-main/index.html
